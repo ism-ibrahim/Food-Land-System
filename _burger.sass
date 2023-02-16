@@ -1,0 +1,43 @@
+#burger
+    border-bottom: 2px solid #0adb2def
+    box-shadow: 0 3px 3px #0adb2def
+    h2
+        font-size: 40px
+        color: #e60707
+        margin: 20px 0
+    .imgbox
+        box-shadow: 7px 7px 5px #0adb2d
+        background-color: #212121
+        border: 3px solid #ad0606
+        border-radius: 20px
+        margin-bottom: 20px
+        img
+            border: 3px solid #ad0606
+            border-radius: 15px
+            &:hover
+                cursor: pointer
+        h3
+            text-align: center
+            font-size: 27px
+            margin: 10px 0 15px 10px
+            color: #e2a808
+        h4
+            text-align: center
+            font-size: 27px
+            margin: 10px 15px 15px 0
+            color: #0adb2d
+    @media screen and ( max-width: 768px )
+        .imgbox
+            h3,h4
+                font-size: 19px
+    @media screen and ( max-width: 346px )
+        h2
+            font-size: 30px
+        .imgbox
+            box-shadow: none
+            h3
+                font-size: 21px
+                margin: 10px 0 15px 8px
+            h4
+                font-size: 21px
+                margin: 10px 10px 15px 0
