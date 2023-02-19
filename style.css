@@ -273,18 +273,18 @@ header h3 {
 #pizza .imgbox h3 {
   text-align: center;
   font-size: 27px;
-  margin: 10px 0 15px 8px;
+  margin: 10px 0 15px 10px;
   color: #e2a808;
 }
 #pizza .imgbox h4 {
   text-align: center;
-  font-size: 27px;
-  margin: 10px 15px 15px 0;
+  font-size: 33px;
+  margin: 20px 15px 15px 0;
   color: #0adb2d;
 }
 #pizza .imgbox .btn {
   text-align: center;
-  font-size: 22px;
+  font-size: 30px;
   margin: 8px;
   color: #0adb2d;
   border: 1px solid rgba(10, 219, 45, 0.4117647059);
@@ -381,13 +381,13 @@ header h3 {
 }
 #kabab .imgbox h4 {
   text-align: center;
-  font-size: 27px;
-  margin: 10px 15px 15px 0;
+  font-size: 33px;
+  margin: 20px 15px 15px 0;
   color: #0adb2d;
 }
 #kabab .imgbox .btn {
   text-align: center;
-  font-size: 22px;
+  font-size: 30px;
   margin: 8px;
   color: #0adb2d;
   border: 1px solid rgba(10, 219, 45, 0.4117647059);
@@ -483,13 +483,13 @@ header h3 {
 }
 #salat .imgbox h4 {
   text-align: center;
-  font-size: 27px;
-  margin: 10px 15px 15px 0;
+  font-size: 33px;
+  margin: 20px 15px 15px 0;
   color: #0adb2d;
 }
 #salat .imgbox .btn {
   text-align: center;
-  font-size: 22px;
+  font-size: 30px;
   margin: 8px;
   color: #0adb2d;
   border: 1px solid rgba(10, 219, 45, 0.4117647059);
@@ -585,13 +585,13 @@ header h3 {
 }
 #drink .imgbox h4 {
   text-align: center;
-  font-size: 27px;
-  margin: 10px 15px 15px 0;
+  font-size: 33px;
+  margin: 20px 15px 15px 0;
   color: #0adb2d;
 }
 #drink .imgbox .btn {
   text-align: center;
-  font-size: 22px;
+  font-size: 30px;
   margin: 8px;
   color: #0adb2d;
   border: 1px solid rgba(10, 219, 45, 0.4117647059);
