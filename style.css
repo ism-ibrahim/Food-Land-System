@@ -54,18 +54,23 @@ header h3 {
   border-radius: 8px;
   padding: 8px;
 }
+@media screen and (max-width: 1024px) {
+  header h1 {
+    font-size: 63px;
+  }
+}
 @media screen and (max-width: 768px) {
   header h1 {
-    font-size: 30px;
+    font-size: 47px;
   }
   header h2 {
     font-size: 20px;
-    margin: 5px 0 0;
+    margin: 12px 5px;
     padding: 10px;
   }
   header h3 {
     font-size: 20px;
-    margin: 5px 0 0;
+    margin: 12px 5px;
     padding: 10px;
   }
 }
@@ -132,7 +137,7 @@ header h3 {
   margin: 20px 0;
 }
 #burger .imgbox {
-  box-shadow: 7px 7px 5px #0adb2d;
+  box-shadow: 7px 7px 5px #e2a808;
   background-color: #212121;
   border: 3px solid #ad0606;
   border-radius: 20px;
@@ -171,9 +176,40 @@ header h3 {
   color: white;
   cursor: pointer;
 }
+@media screen and (max-width: 1024px) {
+  #burger .imgbox h3 {
+    font-size: 22px;
+  }
+  #burger .imgbox h4 {
+    font-size: 27px;
+    margin: 19px 5px;
+  }
+  #burger .imgbox .btn {
+    font-size: 24px;
+  }
+}
 @media screen and (max-width: 768px) {
-  #burger .imgbox h3, #burger .imgbox h4 {
-    font-size: 19px;
+  #burger .imgbox h3 {
+    font-size: 15px;
+  }
+  #burger .imgbox h4 {
+    font-size: 17px;
+    margin: 19px 5px;
+  }
+  #burger .imgbox .btn {
+    font-size: 17px;
+  }
+}
+@media screen and (max-width: 425px) {
+  #burger .imgbox h3 {
+    font-size: 23px;
+  }
+  #burger .imgbox h4 {
+    font-size: 30px;
+    margin-top: 19px;
+  }
+  #burger .imgbox .btn {
+    font-size: 24px;
   }
 }
 @media screen and (max-width: 346px) {
@@ -206,7 +242,7 @@ header h3 {
   margin: 20px 0;
 }
 #pizza .imgbox {
-  box-shadow: 7px 7px 5px #0adb2d;
+  box-shadow: 7px 7px 5px #e2a808;
   background-color: #212121;
   border: 3px solid #ad0606;
   border-radius: 20px;
@@ -248,9 +284,40 @@ header h3 {
   color: white;
   cursor: pointer;
 }
+@media screen and (max-width: 1024px) {
+  #pizza .imgbox h3 {
+    font-size: 22px;
+  }
+  #pizza .imgbox h4 {
+    font-size: 27px;
+    margin: 19px 5px;
+  }
+  #pizza .imgbox .btn {
+    font-size: 24px;
+  }
+}
 @media screen and (max-width: 768px) {
-  #pizza .imgbox h3, #pizza .imgbox h4 {
-    font-size: 19px;
+  #pizza .imgbox h3 {
+    font-size: 15px;
+  }
+  #pizza .imgbox h4 {
+    font-size: 17px;
+    margin: 19px 5px;
+  }
+  #pizza .imgbox .btn {
+    font-size: 17px;
+  }
+}
+@media screen and (max-width: 425px) {
+  #pizza .imgbox h3 {
+    font-size: 23px;
+  }
+  #pizza .imgbox h4 {
+    font-size: 30px;
+    margin-top: 19px;
+  }
+  #pizza .imgbox .btn {
+    font-size: 24px;
   }
 }
 @media screen and (max-width: 346px) {
@@ -278,7 +345,7 @@ header h3 {
   margin: 20px 0;
 }
 #kabab .imgbox {
-  box-shadow: 7px 7px 5px #0adb2d;
+  box-shadow: 7px 7px 5px #e2a808;
   background-color: #212121;
   border: 3px solid #ad0606;
   border-radius: 20px;
@@ -320,9 +387,40 @@ header h3 {
   color: white;
   cursor: pointer;
 }
+@media screen and (max-width: 1024px) {
+  #kabab .imgbox h3 {
+    font-size: 22px;
+  }
+  #kabab .imgbox h4 {
+    font-size: 27px;
+    margin: 19px 5px;
+  }
+  #kabab .imgbox .btn {
+    font-size: 24px;
+  }
+}
 @media screen and (max-width: 768px) {
-  #kabab .imgbox h3, #kabab .imgbox h4 {
-    font-size: 19px;
+  #kabab .imgbox h3 {
+    font-size: 15px;
+  }
+  #kabab .imgbox h4 {
+    font-size: 17px;
+    margin: 19px 5px;
+  }
+  #kabab .imgbox .btn {
+    font-size: 17px;
+  }
+}
+@media screen and (max-width: 425px) {
+  #kabab .imgbox h3 {
+    font-size: 23px;
+  }
+  #kabab .imgbox h4 {
+    font-size: 30px;
+    margin-top: 19px;
+  }
+  #kabab .imgbox .btn {
+    font-size: 24px;
   }
 }
 @media screen and (max-width: 346px) {
@@ -349,7 +447,7 @@ header h3 {
   margin: 20px 0;
 }
 #salat .imgbox {
-  box-shadow: 7px 7px 5px #0adb2d;
+  box-shadow: 7px 7px 5px #e2a808;
   background-color: #212121;
   border: 3px solid #ad0606;
   border-radius: 20px;
@@ -391,9 +489,40 @@ header h3 {
   color: white;
   cursor: pointer;
 }
+@media screen and (max-width: 1024px) {
+  #salat .imgbox h3 {
+    font-size: 22px;
+  }
+  #salat .imgbox h4 {
+    font-size: 27px;
+    margin: 19px 5px;
+  }
+  #salat .imgbox .btn {
+    font-size: 24px;
+  }
+}
 @media screen and (max-width: 768px) {
-  #salat .imgbox h3, #salat .imgbox h4 {
-    font-size: 19px;
+  #salat .imgbox h3 {
+    font-size: 15px;
+  }
+  #salat .imgbox h4 {
+    font-size: 17px;
+    margin: 19px 5px;
+  }
+  #salat .imgbox .btn {
+    font-size: 17px;
+  }
+}
+@media screen and (max-width: 425px) {
+  #salat .imgbox h3 {
+    font-size: 23px;
+  }
+  #salat .imgbox h4 {
+    font-size: 30px;
+    margin-top: 19px;
+  }
+  #salat .imgbox .btn {
+    font-size: 24px;
   }
 }
 @media screen and (max-width: 346px) {
@@ -420,7 +549,7 @@ header h3 {
   margin: 20px 0;
 }
 #drink .imgbox {
-  box-shadow: 7px 7px 5px #0adb2d;
+  box-shadow: 7px 7px 5px #e2a808;
   background-color: #212121;
   border: 3px solid #ad0606;
   border-radius: 20px;
@@ -462,9 +591,40 @@ header h3 {
   color: white;
   cursor: pointer;
 }
+@media screen and (max-width: 1024px) {
+  #drink .imgbox h3 {
+    font-size: 22px;
+  }
+  #drink .imgbox h4 {
+    font-size: 27px;
+    margin: 19px 5px;
+  }
+  #drink .imgbox .btn {
+    font-size: 24px;
+  }
+}
 @media screen and (max-width: 768px) {
-  #drink .imgbox h3, #drink .imgbox h4 {
-    font-size: 19px;
+  #drink .imgbox h3 {
+    font-size: 15px;
+  }
+  #drink .imgbox h4 {
+    font-size: 17px;
+    margin: 19px 5px;
+  }
+  #drink .imgbox .btn {
+    font-size: 17px;
+  }
+}
+@media screen and (max-width: 425px) {
+  #drink .imgbox h3 {
+    font-size: 23px;
+  }
+  #drink .imgbox h4 {
+    font-size: 30px;
+    margin-top: 19px;
+  }
+  #drink .imgbox .btn {
+    font-size: 24px;
   }
 }
 @media screen and (max-width: 346px) {

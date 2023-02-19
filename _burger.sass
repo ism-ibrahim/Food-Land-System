@@ -6,7 +6,7 @@
         color: #e60707
         margin: 20px 0
     .imgbox
-        box-shadow: 7px 7px 5px #0adb2d
+        box-shadow: 7px 7px 5px #e2a808
         background-color: #212121
         border: 3px solid #ad0606
         border-radius: 20px
@@ -39,10 +39,33 @@
                 background-color: #d69e06
                 color: #ffff
                 cursor: pointer
+    @media screen and ( max-width: 1024px )
+        .imgbox
+            h3
+                font-size: 22px
+            h4
+                font-size: 27px
+                margin: 19px 5px
+            .btn
+                font-size: 24px
     @media screen and ( max-width: 768px )
         .imgbox
-            h3,h4
-                font-size: 19px
+            h3
+                font-size: 15px
+            h4
+                font-size: 17px
+                margin: 19px 5px
+            .btn
+                font-size: 17px
+    @media screen and ( max-width: 425px )
+        .imgbox
+            h3
+                font-size: 23px
+            h4
+                font-size: 30px
+                margin-top: 19px
+            .btn
+                font-size: 24px
     @media screen and ( max-width: 346px )
         h2
             font-size: 30px
