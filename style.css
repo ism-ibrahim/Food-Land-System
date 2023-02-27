@@ -86,21 +86,12 @@ header h3 {
 }
 @media screen and (min-width: 425px) and (max-width: 767px) {
   header h1 {
-    text-shadow: 3px 3px 3px #e2a808;
-    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-    text-align: center;
     font-size: 10vw;
-    color: #db0707;
     margin: 10px 0;
-    cursor: pointer;
   }
   header h2 {
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 5vw;
     margin: 20px 0 5px;
-    color: #0adb2d;
-    border: 2px solid rgba(10, 219, 45, 0.937254902);
-    border-radius: 8px;
     padding: 8px;
   }
   header h3 {
@@ -298,6 +289,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 425px) and (max-width: 767px) {
+  #burger h2 {
+    font-size: 30px;
+  }
   #burger .imgbox h3 {
     font-size: 23px;
   }
@@ -310,6 +304,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
+  #burger h2 {
+    font-size: 30px;
+  }
   #burger .imgbox h3 {
     font-size: 15px;
   }
@@ -322,6 +319,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 1024px) and (max-width: 1439px) {
+  #burger h2 {
+    font-size: 30px;
+  }
   #burger .imgbox h3 {
     font-size: 22px;
   }
@@ -334,6 +334,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 1440px) and (max-width: 2559px) {
+  #burger h2 {
+    font-size: 30px;
+  }
   #burger .imgbox h3 {
     font-size: 22px;
   }
@@ -346,6 +349,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 2560px) {
+  #burger h2 {
+    font-size: 30px;
+  }
   #burger .imgbox h3 {
     font-size: 22px;
   }
@@ -449,6 +455,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 425px) and (max-width: 767px) {
+  #pizza h2 {
+    font-size: 30px;
+  }
   #pizza .imgbox h3 {
     font-size: 23px;
   }
@@ -461,6 +470,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
+  #pizza h2 {
+    font-size: 30px;
+  }
   #pizza .imgbox h3 {
     font-size: 15px;
   }
@@ -473,6 +485,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 1024px) and (max-width: 1439px) {
+  #pizza h2 {
+    font-size: 30px;
+  }
   #pizza .imgbox h3 {
     font-size: 22px;
   }
@@ -485,6 +500,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 1440px) and (max-width: 2559px) {
+  #pizza h2 {
+    font-size: 30px;
+  }
   #pizza .imgbox h3 {
     font-size: 22px;
   }
@@ -497,6 +515,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 2560px) {
+  #pizza h2 {
+    font-size: 30px;
+  }
   #pizza .imgbox h3 {
     font-size: 22px;
   }
@@ -601,6 +622,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 425px) and (max-width: 767px) {
+  #kabab h2 {
+    font-size: 30px;
+  }
   #kabab .imgbox h3 {
     font-size: 23px;
   }
@@ -613,6 +637,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
+  #kabab h2 {
+    font-size: 30px;
+  }
   #kabab .imgbox h3 {
     font-size: 15px;
   }
@@ -625,6 +652,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 1024px) and (max-width: 1439px) {
+  #kabab h2 {
+    font-size: 30px;
+  }
   #kabab .imgbox h3 {
     font-size: 22px;
   }
@@ -637,6 +667,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 1440px) and (max-width: 2559px) {
+  #kabab h2 {
+    font-size: 30px;
+  }
   #kabab .imgbox h3 {
     font-size: 22px;
   }
@@ -649,6 +682,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 2560px) {
+  #kabab h2 {
+    font-size: 30px;
+  }
   #kabab .imgbox h3 {
     font-size: 22px;
   }
@@ -752,6 +788,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 425px) and (max-width: 767px) {
+  #salat h2 {
+    font-size: 30px;
+  }
   #salat .imgbox h3 {
     font-size: 23px;
   }
@@ -764,6 +803,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
+  #salat h2 {
+    font-size: 30px;
+  }
   #salat .imgbox h3 {
     font-size: 15px;
   }
@@ -776,6 +818,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 1024px) and (max-width: 1439px) {
+  #salat h2 {
+    font-size: 30px;
+  }
   #salat .imgbox h3 {
     font-size: 22px;
   }
@@ -788,6 +833,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 1440px) and (max-width: 2559px) {
+  #salat h2 {
+    font-size: 30px;
+  }
   #salat .imgbox h3 {
     font-size: 22px;
   }
@@ -800,6 +848,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 2560px) {
+  #salat h2 {
+    font-size: 30px;
+  }
   #salat .imgbox h3 {
     font-size: 22px;
   }
@@ -903,6 +954,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 425px) and (max-width: 767px) {
+  #drink h2 {
+    font-size: 30px;
+  }
   #drink .imgbox h3 {
     font-size: 23px;
   }
@@ -915,6 +969,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
+  #drink h2 {
+    font-size: 30px;
+  }
   #drink .imgbox h3 {
     font-size: 15px;
   }
@@ -927,6 +984,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 1024px) and (max-width: 1439px) {
+  #drink h2 {
+    font-size: 30px;
+  }
   #drink .imgbox h3 {
     font-size: 22px;
   }
@@ -939,6 +999,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 1440px) and (max-width: 2559px) {
+  #drink h2 {
+    font-size: 30px;
+  }
   #drink .imgbox h3 {
     font-size: 22px;
   }
@@ -951,6 +1014,9 @@ header h3 {
   }
 }
 @media screen and (min-width: 2560px) {
+  #drink h2 {
+    font-size: 30px;
+  }
   #drink .imgbox h3 {
     font-size: 22px;
   }
@@ -987,7 +1053,7 @@ header h3 {
   font-weight: 700;
   color: #0adb2d;
 }
-@media screen and (max-width: 346px) {
+@media screen and (max-width: 320px) and (max-width: 375px) {
   #total h1 {
     font-size: 27px;
   }
@@ -996,7 +1062,7 @@ header h3 {
     padding: 10px 35px;
   }
 }
-@media screen and (max-width: 346px) and (max-width: 424px) {
+@media screen and (max-width: 376px) and (max-width: 424px) {
   #total h1 {
     font-size: 27px;
   }
@@ -1024,6 +1090,24 @@ header h3 {
   }
 }
 @media screen and (min-width: 1024px) and (max-width: 1439px) {
+  #total h1 {
+    font-size: 27px;
+  }
+  #total .totalbar {
+    font-size: 30px;
+    padding: 10px 35px;
+  }
+}
+@media screen and (min-width: 1440px) and (max-width: 2559px) {
+  #total h1 {
+    font-size: 27px;
+  }
+  #total .totalbar {
+    font-size: 30px;
+    padding: 10px 35px;
+  }
+}
+@media screen and (min-width: 2560px) {
   #total h1 {
     font-size: 27px;
   }
