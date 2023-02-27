@@ -115,7 +115,7 @@ header h3 {
 }
 @media screen and (min-width: 1024px) and (max-width: 1439px) {
   header h1 {
-    font-size: 5vw;
+    font-size: 4.5vw;
     margin: 10px 0;
   }
   header h2 {
