@@ -28,11 +28,9 @@ header h1 {
   text-shadow: 3px 3px 3px #e2a808;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   text-align: center;
-  font-size: 4vw;
+  font-size: 9vw;
   color: #db0707;
   margin: 10px 0;
-}
-header h1:hover {
   cursor: pointer;
 }
 header h2 {
@@ -86,7 +84,7 @@ header h3 {
 }
 @media screen and (min-width: 425px) and (max-width: 767px) {
   header h1 {
-    font-size: 10vw;
+    font-size: 9vw;
     margin: 10px 0;
   }
   header h2 {
@@ -95,19 +93,14 @@ header h3 {
     padding: 8px;
   }
   header h3 {
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: right;
     font-size: 5vw;
     margin: 20px 0 5px;
-    color: #0adb2d;
-    border: 2px solid rgba(10, 219, 45, 0.937254902);
-    border-radius: 8px;
     padding: 8px;
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   header h1 {
-    font-size: 5.3vw;
+    font-size: 4.5vw;
   }
   header h2 {
     font-size: 20px;
@@ -138,7 +131,7 @@ header h3 {
 }
 @media screen and (min-width: 1440px) and (max-width: 2559px) {
   header h1 {
-    font-size: 4vw;
+    font-size: 2.5vw;
     margin: 10px 0;
   }
   header h2 {
@@ -383,8 +376,6 @@ header h3 {
 #pizza .imgbox img {
   border: 3px solid #ad0606;
   border-radius: 15px;
-}
-#pizza .imgbox img:hover {
   cursor: pointer;
 }
 #pizza .imgbox h3 {
@@ -550,8 +541,6 @@ header h3 {
 #kabab .imgbox img {
   border: 3px solid #ad0606;
   border-radius: 15px;
-}
-#kabab .imgbox img:hover {
   cursor: pointer;
 }
 #kabab .imgbox h3 {
@@ -716,8 +705,6 @@ header h3 {
 #salat .imgbox img {
   border: 3px solid #ad0606;
   border-radius: 15px;
-}
-#salat .imgbox img:hover {
   cursor: pointer;
 }
 #salat .imgbox h3 {
@@ -882,8 +869,6 @@ header h3 {
 #drink .imgbox img {
   border: 3px solid #ad0606;
   border-radius: 15px;
-}
-#drink .imgbox img:hover {
   cursor: pointer;
 }
 #drink .imgbox h3 {
